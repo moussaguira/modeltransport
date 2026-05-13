@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# MODFLOW model outputs
+*.hds
+*.cbc
+*.ucn
+*.bud
+*.lst
+*.obs
+*.mvt
+*.mvr
+*.gwf
+*.gwt
+
+# Large binary files
+*.bin
+*.hdf
+*.h5
+
+# GIS exports
+modgisfiles/
