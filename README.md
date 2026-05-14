@@ -24,10 +24,13 @@ Jupyter notebooks for visualization and analysis
 Documentation of model setup, assumptions, and layer configurations
 
 # Structure
+
+```
 modeltransport/
-│
-├── models/          # Transport model runs and scenarios
-├── scripts/         # FloPy build/run utilities
-├── data/            # Raw and processed inputs
-├── notebooks/       # Analysis and visualization
-└── docs/            # Model descriptions and notes
+├── models/        # Transport model runs and scenarios
+├── scripts/       # FloPy build/run utilities
+├── data/          # Raw and processed inputs
+├── notebooks/     # Analysis and visualization
+└── docs/          # Model descriptions and notes
+```
+
